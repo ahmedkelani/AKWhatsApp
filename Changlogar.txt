@@ -1,4 +1,4 @@
-﻿{"version_code":451204,"content":"
+{"version_code":451204,"content":"
 <p>تحديث 1.40</p>
 
 <li>التحديث لنسخة الماركت 2.18.122</li>
@@ -41,5 +41,4 @@
 <li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
 <li> Many Other Fixes</li>
 
-","url":"http://www.akwhatsapp.com/2017/10/akwhatsapp-2.html?m=1"
-}
+","url":"http://www.akwhatsapp.com/2017/10/akwhatsapp-2.html?m=1"}
