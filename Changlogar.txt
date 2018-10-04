@@ -1,44 +1,90 @@
-{"version_code":451204,"content":"
+{"version_code":451208,"content":"
 <p>تحديث 1.40</p>
 
-<li>التحديث لنسخة الماركت 2.18.122</li>
-<li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
-<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
-<li>يمكن تخصيص الرد التلقائي لمحادثات معينة او استثناء محادثات معينة</li>
-<li>إضافة الخيار رقم 2.7.9 لاختيار شكل الزر العائم كالواتس الرسمي</li>
-<li>إضافة الخيار رقم 2.1.11 لاخفاء زر انشاء دردشة جديدة من المحادثات</li>
-<li>إضافة الخيار رقم 6.20 لتعطيل ظهور تنبيه بان هناك رسائل مسترجعة(محذوفة)</li>
-<li>إضافة خيار لتعطيل الرد التلقائي في حال اخفاء صحين القراءة</li>
-<li>إضافة الخيار رقم 1.1.16 لإظهار ايقونة الفيديو في المحادثة</li>
-<li>يمكنك الان معرفة المحادثات التي قمت بتفعيل التحميل التلقائي لها.(افتح الواتساب - خيارات - المحادثات المخصصة)</li>
-<li>يمكنك الان البحث عن الثيمات من خلال اسم الثيم</li>
-<li>إصلاح لون الاسماء عند اضافة عضو جديد لاي مجموعة</li>
-<li>إصلاح لون فقاعات الدردشة</li>
-<li>إصلاح إخفاء اشارة التشغيل</li>
-<li>إصلاح عدم ظهور ايقونة الارفاق في محادثة الرسائل الجماعية</li>
-<li>إصلاح لون الشريط العلوي للمحادثات المخفية و المؤرشفة</li>
-<li>تحديث اللغة الايطالية والبرازيلية</li>
-<li>إصلاحات اخرى</li>
+<li>التحديث لنسخة الماركت 2.18.203</li>
+<li>امكانية تخصيص قائمة الخيارات</li>
+<li>امكانية اخفاء حالة كتابية جديدة  من قائمة الخيارات</li>
+<li>امكانية اخفاء حالة جديدة  من قائمة الخيارات</li>
+<li>امكانية اخفاء اعدادات الحالة  من قائمة الخيارات</li>
+<li>امكانية اخفاء الحالة من قائمة الخيارات</li>
+<li>امكانية اخفاء واتساب ويب من قائمة الخيارات</li>
+<li>امكانية اخفاء الرسائل المميزة بنجمة من قائمة الخيارات</li>
+<li>امكانية اخفاء ايقونة الدردشة لرقم غير محفوظ  من قائمة الخيارات</li>
+<li>إمكانية إرسال مقطع فيديو بحجم يصل حتى 128 ميغا</li>
+<li>امكانية اخفاء الاسم في شاشة الحالة /الستوري</li>
+<li>امكانية اخفاء الدردشات المستعملة مراراً في شاشة اعادة التوجيه</li>
+<li>امكانية اخفاء جهات الاتصال الأخرى في شاشة اعادة التوجيه</li>
+<li>امكانية اخفاء الحالات الحديثة في شاشة اعادة التوجيه</li>
+<li>امكانية وضع الاسم في الشاشة الستوري/الحالة في المنتصف</li>
+<li>امكانية تغير واجهة الواتساب الى 4 اشكال</li>
+<li>إضافة  العديد من الخيارات لتحكم بالاشعارات (من شاهد حالتك, من قام بتغير الصورة الشخصية)</li>
+<li>إضافة خيار لتغير محتوى الشاشة الرئيسية لـ11  شكل</li>
+<li>اضافة ايقونات جديدة للبرنامج (الاجمالي 113 ايقونة)</li>
+<li>اضافة ايقونات جديدة للاشعارات (الاجمالي 52 ايقونة)</li>
+<li>السحب من اليمين الى اليسار لاغلاق المحادثه</li>
+<li>اظهار صحين الازرق فقط بعد الرد (تعليم الرساله مقروءه بعد الرد!)</li>
+<li>اضافة خيار لتعطيل السحب</li>
+<li>إضافة خيار ارسال رسالة لاي رقم غير محفوظ في جهازك</li>
+<li>امكانية التبديل بين ايقونة دردشة لرقم غير محفوظ  , وايقونة بدأ محادثة جديدة في الشريط العلوي للشاشة الرئيسية</li>
+<li>اضافة خيار لتغير بين الفيسات الجديدة والقديمة /الايموجي</li>
+<li>اضافة خيار لعرض رقمك او الحالة الخاصة بك في الشريط العلوي للشاشة الرئيسية</li>
+<li>إضافة خيار لتغير ستايل الشاشة الرئيسية ل6 اشكال</li>
+<li>اضافة ايقونات جديدة</li>
+<li>اضافة خيار لمنع الوصول الى الواتساب ويب (وداعا للتتجسس عبر واتساب ويب)</li>
+<li>اضافة خيار لمنع الوصول الى المحادثات المؤرشفة</li>
+<li>امكانية اخفاء خانة الحالات المشاهدة في واجهة الستوري/الحالة</li>
+<li>امكانية اخفاء خانة الحالات  الأخيرة في واجهة الستوري/الحالة</li>
+<li>امكانية اخفاء خانة الحالات الغير هامة في واجهة الستوري/الحالة</li>
+<li>اضافة خيار لتغير واجهة الواتساب الى  الواجهة القديمة 2014</li>
+<li>اضافة خيار لمنع ظهور اشعار اثناء الاستماع  الى التسجيلات الصوتية</li>
+<li>اضافة خيارات الخصوصية في قائمة مخصصة ( خياراات .اضافات وخصائص . الخصوصية)</li>
+<li>اضافة خيارات اخرى لكتم المحادثة ( ساعة ، 12ساعة ، 36 ساعة ، شهر ، للأبد)</li>
+<li>امكانية تثبيت 100 محادثة في الشاشة الرئيسية بدلا من 25</li>
+<li>اضافة خيار تعدد الدردشات (فتح اكثر من محادثة في قائمة التطبيقات المستخدمة مؤخرا)</li>
+<li>والمزيد من الإصلاحات</li>
 
-<li> New Base Updated to 2.18.122</li>
-<li> Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
-<li> Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
-<li> Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording) </li>
-<li> Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
-<li> Added Stock Fab (Mod 2.7.9)</li>
-<li> Added Option to Hide New Chat Icon from Header (Mod 2.1.11)</li>
-<li> Added Option for Disable Revoked Message Notification(Mod 6.20)</li>
-<li> Added Option to Disable Auto-Reply when Hide Read</li>
-<li> Added Option to Enable Video Icon in Conversation Header (Mod 1.1.16)</li>
-<li> Added Custom Media Auto-Download in Custom Chats</li>
-<li> Added Now You can Search by Name in Theme Server</li>
-<li> Updated Italian & Brazilian language</li>
-<li> Fixed Contacts Name Color when Add Participants</li>
-<li> Fixed Bubble Color</li>
-<li> Fixed Privacy for Blue Microphone</li>
-<li> Fixed GIF Background Color</li>
-<li> Fixed Attach Icon not Showing in Broadcast chat</li>
-<li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
+<li> Update for the copy of the market 2.18.203</li>
+<li> Now you can Customize your menu settings</li>
+<li> Ability to Hide name in status row</li>
+<li> Ability to Hide Recent chats in Forward section</li>
+<li> Ability to Hide Frequently contacted in Forward section</li>
+<li> Ability to Hide Other contacts in Forward section</li>
+<li> Ability to Hide New Chating Icon From options</li>
+<li> Ability to Hide Starred messages Item From Options</li>
+<li> Ability to Hide WhatsApp Web Item From Options</li>
+<li> Ability to Hide My About Item From Options</li>
+<li> Ability to Hide Status Settings Item From Options</li>
+<li> Ability to Hide New status Item From Options</li>
+<li> Ability to Hide New text status Item From Options</li>
+<li> Improved [Home Ui] Now you can choose multiple styles (Total 4 styles)</li>
+<li> Increased video sending limit to 128MB</li>
+<li> Added New Launcher Icons (total 113 icons)</li>
+<li> Added New Notifybar Icons (total 52 icons)</li>
+<li> Added option to change Conversations Style Row (11 Styles)</li>
+<li> Added option to change ActionBar Style in Conversations(6 Styles)</li>
+<li> Added many options for Toast settings</li>
+<li> Swipe from left to right to exit conversations, like telegram!</li>
+<li> Added Option to Show Blue ticks after reply! (mark message as read, only when you reply!)</li>
+<li> Added Option to Send Messages to unsaved Number</li>
+<li> Added Option to Disable Swipe from left to right to exit conversations</li>
+<li> Added Option to Switch between New Chating(Chat for an unsaved number) and New Message icon</li>
+<li> Added Option to Switch between Old and New emojis</li>
+<li> Added Option to Conversations Style Row</li>
+<li> New Launcher Icons</li>
+<li> Added Option to set "EITHER" your number or your status under name in main screen</li>
+<li> Add option to block access to Whatsapp Web (Goodbye spying via Whatsapp Web)</li>
+<li> Add option to block access to archived chats</li>
+<li> Ability to hide view status in status row</li>
+<li> Ability to hide Recent status in status row</li>
+<li> Ability to hide mute status in status row</li>
+<li> Added Option to Change Home Screen To Old Ui (2014)</li>
+<li> Added option to Disable notification while playing voice notes</li>
+<li> Extra Mute Conversation Options (1 hrs, 12 hrs , 36 hrs, 1 month , Forever )</li>
+<li> Added Privacy Settings (AK Settings.. Privacy)</li>
+<li> Ability to Pin 100 instead of 3 Chats</li>
+<li> Ability to Send a video to your Status for 30 minutes instead of 30 seconds</li>
+<li> And other reforms</li>
+
 <li> Many Other Fixes</li>
 
-","url":"http://www.akwhatsapp.com/2017/10/akwhatsapp-2.html?m=1"}
+","url":"https://www.joker-sy.com/2017/10/akwhatsapp-2.html"}
