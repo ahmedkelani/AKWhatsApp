@@ -84,7 +84,6 @@
 <li> Ability to Pin 100 instead of 3 Chats</li>
 <li> Ability to Send a video to your Status for 30 minutes instead of 30 seconds</li>
 <li> And other reforms</li>
-
 <li> Many Other Fixes</li>
 
 ","url":"https://www.joker-sy.com/2017/10/akwhatsapp-2.html"}
