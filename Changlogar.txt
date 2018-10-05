@@ -1,4 +1,4 @@
-{"version_code":451217,"content":"
+{"version_code":451207,"content":"
 <p>تحديث 1.50</p>
 
 <li>التحديث لنسخة الماركت 2.18.203</li>
@@ -86,4 +86,5 @@
 <li> And other reforms</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.joker-sy.com/2017/10/akwhatsapp-2.html"}
+","url":"https://www.joker-sy.com/2017/10/akwhatsapp-2.html"
+}
